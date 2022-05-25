@@ -1,0 +1,1 @@
+docker run -v $(pwd):/app:Z -it -u 0 dockertest bash
